@@ -1,5 +1,5 @@
 ## <h1 align ="center"> Bem vindos! 
-Meu nome é Gustavo, estou iniciando na programação Front-End.
+Meu nome é Gustavo, estou iniciando na programação.
 <div align="center">
   <a href="https://github.com/Gustav0Luiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustav0Luiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
