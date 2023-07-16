@@ -25,9 +25,35 @@
 
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
+      <h2 align="center">Quiz</h2>
+        <p align="center">
+          <br>
+    <div align="center">
+            <img src="https://github.com/Gustav0Luiz/Quiz/assets/116320919/447c254a-fb84-403a-842a-6c7c8da7ef3c" width="390px" />
+    </div> 
+          </div><br/> 
+    <div align="center">
+            Um <a href="https://quiz-orpin-delta.vercel.app/">Quiz</a> de conhecimentos gerais.
+    </div><br>
+    <div align="center">
+      <a href="https://github.com/Gustav0Luiz/Quiz" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://quiz-orpin-delta.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
+    </div> 
+      </p>
+        <p align="center">
+           <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+           <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+          <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+           <img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+        </p>
+    </td>
+     <td width="50%" valign="top">
       <h2 align="center">Pokédex</h2>
         <p align="center">
           <br>
@@ -42,6 +68,34 @@
       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
       </a>  
       <a href="https://gustav0luiz.github.io/Pokedex/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
+    </div> 
+      </p>
+        <p align="center">
+           <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+           <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        </p>
+    </td>
+    </tr>
+  <tr>
+    </td>
+     <td width="50%" valign="top">
+      <h2 align="center">Site de Pizzas</h2>
+        <p align="center">
+          <br>
+    <div align="center">
+            <img src="https://github.com/Gustav0Luiz/Pizzaria/assets/116320919/fca5605a-6081-47ee-946e-ba7599e255d5" width="460px" />
+    </div><br/><br/>  
+    <div align="center">
+            Um site de compra de  <a href="https://gustav0luiz.github.io/Pizzaria/">Pizzas</a>.<br/> Esse projeto faz parte do curso B7web.
+    </div><br>
+    <div align="center">
+      <a href="https://github.com/Gustav0Luiz/Pizzaria" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://gustav0luiz.github.io/Pizzaria/">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
     </div> 
@@ -129,38 +183,6 @@
         </p>
     </td>
     </tr>
-    <tr>
-       </td>
-     <td width="50%" valign="top">
-      <h2 align="center">Site de Pizzas</h2>
-        <p align="center">
-          <br>
-    <div align="center">
-            <img src="https://github.com/Gustav0Luiz/Pizzaria/assets/116320919/fca5605a-6081-47ee-946e-ba7599e255d5" width="420px" />
-    </div><br/>      
-    <div align="center">
-            Um site de compra de  <a href="https://gustav0luiz.github.io/Pizzaria/">Pizzas</a>.<br/> Esse projeto faz parte do curso B7web.
-    </div><br>
-    <div align="center">
-      <a href="https://github.com/Gustav0Luiz/Pizzaria" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-      </a>  
-      <a href="https://gustav0luiz.github.io/Pizzaria/">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-      </a>
-    </div> 
-      </p>
-        <p align="center">
-           <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-           <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        </p>
-    </td>
-    </tr>
-
-
-
-    
 </table>
 
 
