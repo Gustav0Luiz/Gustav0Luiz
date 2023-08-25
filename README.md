@@ -183,6 +183,33 @@
         </p>
     </td>
     </tr>
+      </tr>
+    <tr>
+      <td width="50%" valign="top">
+      <h2 align="center">Consulta de Nomes</h2>
+        <p align="center">
+          <br>
+    <div align="center">
+            <img src="https://github.com/Gustav0Luiz/Names/assets/116320919/a017c5de-5be9-41dc-9a7c-6017a3f3036a" width="420px" />
+    </div><br/>      
+    <div align="center">
+            Um site onde você pode consultar a frequência de <a href="https://gustav0luiz.github.io/Names/">nomes</a>.
+    </div><br>
+    <div align="center">
+      <a href="https://github.com/Gustav0Luiz/Names" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://gustav0luiz.github.io/Names/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
+    </div> 
+      </p>
+        <p align="center">
+           <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+           <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        </p>
+    </tr>
 </table>
 
 
