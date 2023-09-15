@@ -49,7 +49,7 @@
         <p align="center">
            <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
            <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-          <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+           <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
            <img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
         </p>
     </td>
@@ -209,6 +209,33 @@
            <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
            <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         </p>
+      </td>
+   <td width="50%" valign="top">
+      <h2 align="center">Calculadora de IMC</h2>
+        <p align="center">
+          <br>
+    <div align="center">
+            <img src="https://github.com/Gustav0Luiz/IMC/assets/116320919/f899d12a-54f5-4224-9c69-ddfde43dae78" width="500px" height="269px" />
+    </div><br/>      
+    <div align="center">
+            Uma <a href="https://imc-olive.vercel.app/">Calculadora de IMC</a> feita em React utilizando o Next, baseada no curso b7Web.
+    </div><br>
+    <div align="center">
+      <a href="https://github.com/Gustav0Luiz/IMC" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://imc-olive.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
+    </div> 
+      </p>
+        <p align="center">
+           <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+           <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+           <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+           <img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+        </p>
+    </td>
     </tr>
 </table>
 
