@@ -158,28 +158,32 @@
         </p>
     </td>
      <td width="50%" valign="top">
-      <h2 align="center">Site de Receitas</h2>
+      <h2 align="center">Lista de Países</h2>
         <p align="center">
           <br>
     <div align="center">
-            <img src="https://github.com/Gustav0Luiz/Recipes/assets/116320919/fb7e6489-35ed-4f6f-bc1d-a1dedb432055" width="420px" />
-    </div><br/>      
+            <img src="https://github.com/Gustav0Luiz/Countries/assets/116320919/cc39ccca-a52e-41fd-8566-294b354141dc" width="550px" />
+    </div><br/>
+       <br/>     
+       <br/>
+       <br/>
     <div align="center">
-            Um <a href="https://gustav0luiz.github.io/Recipes/">Site de receitas</a> da minha namorada com imagens reais.
-    </div><br>
+            Uma <a href="https://countries-theta-tan.vercel.app/">Lista de Países</a> feita com dados da API REST COUNTRIES.
+    </div><br/>
     <div align="center">
-      <a href="https://github.com/Gustav0Luiz/Recipes" target="_blank">
+      <a href="https://github.com/Gustav0Luiz/Countries" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
       </a>  
-      <a href="https://gustav0luiz.github.io/Recipes/">
+      <a href="https://countries-theta-tan.vercel.app/">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
     </div> 
       </p>
         <p align="center">
-           <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-           <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+           <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+           <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+           <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+           <img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
         </p>
     </td>
     </tr>
