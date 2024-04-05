@@ -1,4 +1,4 @@
-<h1 align="center"><b>Sejam bem vindos ao meu perfil! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Sejam bem vindos ao meu perfil! <img src="https://media0.giphy.com/media/L4ZI0w4waQ2vSkMgU9/200w.webp" width="65" align="center"></h1>
 
 
 <div align="center">
@@ -7,21 +7,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav0Luiz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
-<div align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-
-</div>
+<h1 align="center">Tecnologias <img align="center" src="https://media1.giphy.com/media/Kfl09udXYhbjajJwEt/200w.webp" width="65"> </h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,vite,react,next,nodejs,c,python,git," />
+  </a>
+</p>
 <hr/>
-<h1 align="left"> Projects ⚙️</h1>
+<h1 align="center"> Projects ⚙️</h1>
 
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
