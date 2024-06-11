@@ -9,7 +9,7 @@
 
 <h1 align="center">Tecnologias <img align="center" src="https://media1.giphy.com/media/Kfl09udXYhbjajJwEt/200w.webp" width="65"> </h1>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,vite,react,next,nodejs,c,python,git," />
   </a>
 </p>
