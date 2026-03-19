@@ -1,75 +1,76 @@
 <h1 align="center">
-  <b>Welcome to my profile!</b>
-  <img src="https://media0.giphy.com/media/L4ZI0w4waQ2vSkMgU9/200w.webp" width="65" align="center">
+  Hi, I'm Gustavo
+  <img src="https://media0.giphy.com/media/L4ZI0w4waQ2vSkMgU9/200w.webp" width="55" align="center">
 </h1>
 
----
-
-<h2 align="center">About me</h2>
-
 <p align="center">
-  My name is Gustavo and I am currently studying Computer Science at the Federal University of Minas Gerais (UFMG), in Brazil.  
-  I started my journey building front-end projects and websites, and now I am exploring broader areas of computer science such as algorithms, data structures and software engineering.
+  <b>Computer Science student at UFMG</b>
 </p>
 
-
----
-
-<h2 align="center">
-  Tech Stack
-  <img align="center" src="https://media1.giphy.com/media/Kfl09udXYhbjajJwEt/200w.webp" width="65">
-</h2>
-
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,vite,react,next,nodejs,c,python,git" />
-  </a>
+  Passionate about algorithms, data structures, software engineering, and problem solving.
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Algorithms-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-1f6feb?style=for-the-badge" />
+</p>
+
+<br/>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  I started with front-end projects and interactive web applications,<br/>
+  building a strong foundation in programming and software development.
+</p>
+
+<p align="center">
+  Today, as a Computer Science student, I focus on algorithms,<br/>
+  data structures, software engineering, and problem solving.
+</p>
+
+<p align="center">
+  Here, I share projects, technical experiments,<br/>
+  and implementations in different programming languages.
+</p>
+
+<br/>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+</p>
+
+<p align="center">
+  <i>Some languages I use to learn, build, and experiment.</i>
+</p>
+
+<br/>
+
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/Gustav0Luiz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustav0Luiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gustav0Luiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/Gustav0Luiz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav0Luiz&layout=compact&langs_count=7&theme=tokyonight" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav0Luiz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
+<br/>
 
----
+<p align="center">
+  <a href="https://github.com/Gustav0Luiz?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-
-<h2 align="center">Highlighted Projects ⚙️</h2>
-
-<ul>
-  <li>
-    <b>Countries</b> – A countries list app using the REST Countries API, with filtering and details.<br/>
-    <a href="https://countries-theta-tan.vercel.app/" target="_blank">Live demo</a> •
-    <a href="https://github.com/Gustav0Luiz/Countries" target="_blank">Source code</a>
-  </li>
-  <br/>
-
-  <li>
-    <b>Quiz</b> – A general knowledge quiz built with React, Next.js, TypeScript and Tailwind CSS.<br/>
-    <a href="https://quiz-orpin-delta.vercel.app/" target="_blank">Live demo</a> •
-    <a href="https://github.com/Gustav0Luiz/Quiz" target="_blank">Source code</a>
-  </li>
-  <br/>
-
-  <li>
-    <b>Memory Game</b> – A memory game using Midjourney-generated images.<br/>
-    <a href="https://gustav0luiz.github.io/Jogo-da-memoria/" target="_blank">Live demo</a> •
-    <a href="https://github.com/Gustav0Luiz/Jogo-da-memoria" target="_blank">Source code</a>
-  </li>
-  <br/>
-
-  <li>
-    <b>Name Frequency</b> – A website where users can explore name frequency data.<br/>
-    <a href="https://gustav0luiz.github.io/Names/" target="_blank">Live demo</a> •
-    <a href="https://github.com/Gustav0Luiz/Names" target="_blank">Source code</a>
-  </li>
-</ul>
-
-<p align="center"><i>More projects available in my repositories.</i></p>
+<p align="center">
+  <i>Thanks for visiting my profile.</i><br/>
+  <i>You can find more projects, experiments, and implementations in my repositories.</i>
+</p>
