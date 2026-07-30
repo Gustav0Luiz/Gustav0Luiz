@@ -4,7 +4,8 @@
 </h1>
 
 <p align="center">
-    Computer Science student at UFMG, interested in algorithms, data structures, software engineering, and problem solving.
+  Computer Science student at UFMG, interested in Data Engineering,<br/>
+  software development and problem solving.
 </p>
 
 <p align="center">
@@ -16,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <img width="580" height="300" alt="animation_gh" src="https://github.com/user-attachments/assets/dbf028f0-6ea7-40cd-8b3e-8c924eceef8f" />
+  <img width="580" height="300" alt="GitHub profile animation" src="https://github.com/user-attachments/assets/dbf028f0-6ea7-40cd-8b3e-8c924eceef8f" />
 </p>
 
 <br/>
@@ -26,22 +27,27 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I started with front-end projects and interactive web applications,<br/>
-  building a strong foundation in programming and software development.
+  I started my journey by exploring different areas of software development,<br/>
+  building a strong foundation in programming and computer science.
 </p>
 
 <p align="center">
-  Today, I study computer science fundamentals and use this space<br/>
-  to share projects, experiments, notes, and implementations.
+  Today, my main focus is Data Engineering and the development<br/>
+  of reliable, scalable, and well-structured data solutions.
+</p>
+
+<p align="center">
+  I use this space to share projects, experiments, study notes,<br/>
+  academic work, and implementations from my learning journey.
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Development-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Science-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=for-the-badge" />
 </p>
 
 <br/>
@@ -51,12 +57,14 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash,postgres,docker,linux,git&theme=dark" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
 </p>
 
 <p align="center">
-  <i>Languages I use to learn, build, and experiment.</i>
+  <i>Some of the main technologies I use to study and develop my projects.</i>
 </p>
+
 
 <br/>
 
@@ -65,7 +73,8 @@
 <h2 align="center">Repositories</h2>
 
 <p align="center">
-  You can find more projects, experiments, and implementations in my repositories.
+  Here you can find projects, experiments, academic work,<br/>
+  and implementations developed throughout my learning journey.
 </p>
 
 <p align="center">
