@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gustav0Luiz?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://gustavo-ribeiro.pages.dev">
+    <img src="https://img.shields.io/badge/Explore%20meu%20portf%C3%B3lio-135ee8?style=for-the-badge" />
   </a>
 </p>
 
@@ -87,4 +87,7 @@
 
 <p align="center">
   <i>Thanks for visiting my profile.</i>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gustav0Luiz&label=Visualizações%20do%20perfil&color=135ee8&style=for-the-badge" />
 </p>
